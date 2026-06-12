@@ -2,6 +2,14 @@
 
 A production-quality React application for visualizing and managing service dependency graphs. The project simulates a cloud infrastructure dashboard using ReactFlow, TanStack Query, Zustand, and Mock Service Worker (MSW).
 
+## Screenshots
+
+### Desktop View
+![Desktop View](screenshots/desktop.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile.png)
+
 ---
 
 ## Overview
